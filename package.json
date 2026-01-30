@@ -4,17 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
-    "test": "jest",
-    "build": "echo Build successful",
-    "start": "node index.js"
-  },
+  "lint": "eslint .",
+  "test": "jest",
+  "build": "echo Build successful",
+  "start": "node index.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
-    "@eslint/js": "^9.39.2",
     "eslint": "^9.39.2",
     "jest": "^30.2.0"
   }
